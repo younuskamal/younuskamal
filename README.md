@@ -28,7 +28,12 @@ My work goes beyond features, focusing on <b>system reliability</b>, <b>clean an
 - Offline-first architecture with intelligent cloud synchronization  
 - Multilingual user experience (Arabic / English)  
 - Designed for daily, real-world clinical operations  
-
+<p>
+  🔗 <b>Live Demo:</b>
+  <a href="https://smartclinic-1-ft4m.onrender.com" target="_blank">
+    View SmartClinic Demo
+  </a>
+</p>
 ---
 
 ### 🧾 POS & Business Management Systems
