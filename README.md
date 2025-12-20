@@ -11,30 +11,53 @@
 </p>
 
 <p align="center">
-I build <b>real production systems</b> used daily by real users.<br/>
-My focus is on <b>offline reliability</b>, <b>clean architecture</b>, and <b>long-term maintainability</b>.
+I design and build <b>full-scale software systems</b> that operate in real environments —<br/>
+used daily by clinics, businesses, educators, and professionals.<br/><br/>
+My work goes beyond features, focusing on <b>system reliability</b>, <b>clean and scalable architecture</b>,<br/>
+<b>offline-first design</b>, and <b>long-term sustainability</b>.
 </p>
+
+
+---
+## 🚀 What I Build
+
+### 🦷 Healthcare & Clinics Systems
+**SmartClinic / MediBook**
+- Comprehensive clinic & dental management platforms  
+- Role-based workflows (Doctor, Assistant, Reception)  
+- Offline-first architecture with intelligent cloud synchronization  
+- Multilingual user experience (Arabic / English)  
+- Designed for daily, real-world clinical operations  
 
 ---
 
-## 🚀 What I Build
+### 🧾 POS & Business Management Systems
+- Desktop-based POS systems built with Electron  
+- Local-first databases (SQLite) with optional cloud connectivity  
+- Integrated licensing, subscriptions, and feature control  
+- Optimized for environments with unstable or limited internet  
 
-### 🦷 SmartClinic / MediBook
-- Clinic & dental management systems  
-- Role-based access (Doctor / Assistant / Reception)  
-- Offline-first design with cloud sync  
-- Multilingual UI (Arabic / English)  
+---
 
-### 🧾 POS & Business Systems
-- Desktop POS (Electron)  
-- Local SQLite + optional cloud  
-- Licensing & subscription logic  
-- Designed for unstable internet environments  
+### 🎓 Education & AI-Powered Learning Systems
+- Platforms for students and teachers supported by AI  
+- Automatic question generation and intelligent testing  
+- Teacher-focused tools for creating, managing, and evaluating exams  
+- Student performance tracking and adaptive assessment  
 
-### 📈 AI & Automation
-- AI-assisted trading & signal platforms  
-- Backtesting, confidence scoring & risk control  
-- Automation tools for real workflows  
+---
+
+### 📈 AI, Trading & Automation Platforms
+- AI-assisted trading and decision-support systems  
+- Advanced backtesting, confidence scoring, and risk management  
+- Workflow automation tools designed for real operational use  
+
+---
+
+### 🌐 Websites & Web Platforms
+- Custom websites and web applications for various domains  
+- Performance-focused, responsive, and production-ready  
+- Built with scalability and maintainability in mind  
 
 ---
 
@@ -64,8 +87,11 @@ Licensing, upgrades, and support are part of the system.
 Same logic and UX on desktop, tablet, and mobile.
 
 ---
-
 ## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=younuskamal&theme=tokyo-night&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=younuskamal&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -75,20 +101,21 @@ Same logic and UX on desktop, tablet, and mobile.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younuskamal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=younuskamal&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 ## 🧠 Philosophy
 
-> “I don’t build features for demos.  
-> I build systems that survive real usage.”
+> I approach software as an engineering discipline, not just programming.  
+> With a background in software development and electrical & electronics engineering,  
+> I design systems the same way physical systems are designed —  
+> to be reliable, fault-tolerant, and functional under real-world constraints.
+>
+> Good systems are not defined by how they look in ideal conditions,  
+> but by how they behave under pressure, failure, and change.
 
 ---
 
 ## 📬 Contact
 
-📧 **muhammad.aldulaimi98@gmail.com**  
+📧 **yonsy205@gmail.com**  
 📍 Turkey
