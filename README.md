@@ -93,18 +93,33 @@ Same logic and UX on desktop, tablet, and mobile.
 
 ---
 ## 📊 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=younuskamal&theme=tokyo-night&hide_border=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=younuskamal&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=younuskamal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=younuskamal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younuskamal&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/
+      ?username=younuskamal
+      &layout=compact
+      &theme=tokyonight
+      &hide_border=true
+      &langs_count=6
+      &exclude_repo=mes,mes1,mes2,mes3,Rezervasyon360"
+    alt="Top Languages"
+  />
 </p>
+
 
 ---
 
