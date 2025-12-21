@@ -108,17 +108,12 @@ Same logic and UX on desktop, tablet, and mobile.
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/
-      ?username=younuskamal
-      &layout=compact
-      &theme=tokyonight
-      &hide_border=true
-      &langs_count=6
-      &exclude_repo=mes,mes1,mes2,mes3,Rezervasyon360"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=younuskamal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=mes,mes1,mes2,mes3,Rezervasyon360"
     alt="Top Languages"
   />
 </p>
+
 
 
 ---
