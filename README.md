@@ -96,9 +96,9 @@ Same logic and UX on desktop, tablet, and mobile.
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=younuskamal&theme=tokyo-night&hide_border=true&area=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=younuskamal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&disable_animations=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=younuskamal&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=younuskamal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&disable_animations=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=younuskamal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 
 
